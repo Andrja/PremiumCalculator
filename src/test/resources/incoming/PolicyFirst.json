@@ -1,0 +1,16 @@
+{
+  "policyNumber" : "LV20-02-100000-5",
+  "policyStatus" : "APPROVED",
+  "policyObjects" : [ {
+    "name" : "flat",
+    "policySubObjects" : [ {
+      "name" : "Table",
+      "sumInsured" : 8.0,
+      "riskType" : "THEFT"
+    }, {
+      "name" : "TV",
+      "sumInsured" : 100.0,
+      "riskType" : "FIRE"
+    } ]
+  } ]
+}
